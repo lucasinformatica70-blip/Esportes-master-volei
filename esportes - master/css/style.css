@@ -138,3 +138,12 @@ h3 {
     text-align: center;
     margin: 10px;
 }
+
+.contato {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 400px;
+    margin: 20px auto;
+    align-items: center;
+}
