@@ -1,8 +1,6 @@
+
 <!DOCTYPE html>
 <php lang="pt-br">
-
-<html lang="pt-br">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -44,11 +42,4 @@ Whatsapp</a></li>
 <p align=center><a > Lucas,Amanda,Rafaela - 2026</a></p>
 </footer>
 </body>
-</html>
-
-
-    
-</body>
-</html>
-</body>
-</html>
+</php>

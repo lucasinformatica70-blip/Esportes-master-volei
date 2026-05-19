@@ -1,3 +1,4 @@
+
 <DOCTYPE! html>
 <php lang="pt-br">
 <head>
@@ -132,10 +133,3 @@
 
 
 </php>
-
-</html>
-
-</php>
-</html>
-
-
