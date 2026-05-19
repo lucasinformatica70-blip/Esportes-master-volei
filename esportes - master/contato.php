@@ -1,5 +1,9 @@
 <!DOCTYPE html>
+<<<<<<< HEAD
+<php lang="pt-br">
+=======
 <html lang="pt-br">
+>>>>>>> 987ad7650156c1d543ce89393227c65f524082b3
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,6 +19,15 @@ Assunto: <input type="text" name="assunto" placeholder="Digite o assunto da mens
 Mensagem: <textarea name="mensagem" placeholder="Digite sua mensagem aqui"></textarea><br><br>
 <input type="submit" value="Enviar">        
 </div>
+<<<<<<< HEAD
+
+<ul>
+    <li>
+        <a href="index.php"></a>
+    </li>
+</ul>
+=======
+>>>>>>> 987ad7650156c1d543ce89393227c65f524082b3
 <footer>
     <p>CNPJ</p>
     <p>Endereço: Rua 1 - Bairro: Horto Florestal - Belo Horizonte | Minas Gerais | Brasil</p>
