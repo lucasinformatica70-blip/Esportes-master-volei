@@ -1,5 +1,9 @@
 <!DOCTYPE html>
+<<<<<<< HEAD
 <php lang="pt-br">
+=======
+<html lang="pt-br">
+>>>>>>> 987ad7650156c1d543ce89393227c65f524082b3
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

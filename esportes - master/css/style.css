@@ -59,6 +59,7 @@ footer p {
 /* Slideshow container */
 .slideshow-container {
   max-width: 700px;
+  max-width: 860px;
   position: relative;
   margin: auto;
 }
