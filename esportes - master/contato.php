@@ -7,8 +7,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contato</title>
+    <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
+    <div class="contato">
     Nome Completo:
 <input type="text" name="nome" placeholder="Digite seu nome completo"><br><br>
 E-mail: <input type="email" name="email" placeholder="Digite seu e-mail"><br><br>
@@ -36,6 +38,7 @@ Whatsapp</a></li>
     <li><a href="#">Facebook</a></li>
 </li>
 </ul>
+</div>
 
 
 <p align=center><a > Lucas,Amanda,Rafaela - 2026</a></p>

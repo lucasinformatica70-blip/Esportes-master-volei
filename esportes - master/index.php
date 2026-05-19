@@ -1,14 +1,8 @@
-
-<!DOCTYPE php>
+<DOCTYPE! html>
 <php lang="pt-br">
 <head>
-    <meta author="Lucas V. de Freitas, Amanda Beatriz fiereck e Rafaela Luiza N. Cavalcante">
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta author="Lucas, Amanda e Rafaela">
->>>>>>> 987ad7650156c1d543ce89393227c65f524082b3
+    <meta author="Lucas V. de Freitas, Amanda Beatriz fiereck e Rafaela Luiza N. Cavalcante">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Esportes - Vôlei</title>
@@ -21,21 +15,21 @@
             <nav>
                 <ul>
                     <li><img src="./img/logo.png" alt="Logo" height="60px" width="120px"></li>
-
                     <li><a href="index.php">Home</a></li>
                     <li><a href="sobre.php">Sobre</a></li>
                     <li><a href="modalidades.php">Modalidades</a></li>
                     <li><a href="contato.php">Contato</a></li>
 
+
                     <li><a href="./index.php">Home</a></li>
                     <li><a href="./sobre.php">Sobre</a></li>
                     <li><a href="./modalidades.php">Modalidades</a></li>
                     <li><a href="./contato.php">Contato</a></li>
-
                 </ul>
             </nav>
         </div>
     </header>
+
     <h1>Esportes Master</h1>
     <h3>Vôlei</h3>
     <div class="slideshow-container">
@@ -63,6 +57,8 @@
     <img src="./img/img4.jpg" style="width:100%">
     <div class="text">texto</div>
 
+
+  <div class="slideshow-container">
     <div class="numbertext">1 / 7</div>
     <img src="./img/img1.jpg" style="width:100%">
   </div>
@@ -111,10 +107,15 @@
   <span class="dot" onclick="currentSlide(3)"></span>
   <span class="dot" onclick="currentSlide(4)"></span>
 
+
+
+
 </div>
     <br>
     <footer>
         <p>Direitos Reservados a Lucas V. de Freitas, Amanda Beatriz fiereck e Rafaela Luiza N. Cavalcante</p>
+
+
 
   <span class="dot" onclick="currentSlide(5)"></span>
   <span class="dot" onclick="currentSlide(6)"></span>
@@ -129,6 +130,12 @@
     </footer>
 </body>
 
+
 </php>
 
 </html>
+
+</php>
+</html>
+
+
