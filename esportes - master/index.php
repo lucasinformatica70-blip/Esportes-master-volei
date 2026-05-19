@@ -2,12 +2,7 @@
 <php lang="pt-br">
 <head>
     <meta author="Lucas V. de Freitas, Amanda Beatriz fiereck e Rafaela Luiza N. Cavalcante">
-
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
     <meta author="Lucas, Amanda e Rafaela">
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Esportes - Vôlei</title>
