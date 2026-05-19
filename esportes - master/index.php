@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta author="Lucas, Amanda e Rafaela">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esportes - Vôlei</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <header>
+        <div>
+            <nav>
+                <ul>
+                    <li><img src="./img/logo.png" alt="Logo" height="60px" width="120px"></li>
+                    <li><a href="./index.html">Home</a></li>
+                    <li><a href="./sobre.html">Sobre</a></li>
+                    <li><a href="./contato.html">Contato</a></li>
+                    <li><a href="./modalidades.html">Modalidades</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <h1>Vôlei</h1>
+    <p>Adicionar texto/substituir por imagem</p>
+    
+    <br>
+    <footer>
+        <p>Direitos Reservados a Lucas V. de Freitas, Amanda Beatriz fir e Rafaela Luiza N. Cavalcante</p>
+        <p>cnpj: 11.111.111/0001-11</p>
+        <p>Endereço: Rua dos Esportes, 123 - Cidade Esportiva, MG, Brasil</p>
+        <p>CEP: 35000-000</p>
+    </footer>
+</body>
+</html>
