@@ -23,6 +23,7 @@
             </nav>
         </div>
     </header>
+  <div class="slideshow-container">
     <div class="numbertext">1 / 7</div>
     <img src="./img/img1.jpg" style="width:100%">
   </div>
