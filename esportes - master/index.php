@@ -7,6 +7,14 @@
     <title>Esportes - Vôlei</title>
     <link rel="stylesheet" href="./css/style.css">
     <script src="./js/script.js" defer></script>
+    <style>
+      body {
+        background-image: url("img/bg.jpg");
+        background-size: cover;
+        background-blend-mode: overlay;
+        background-color: rgba(130, 200, 241, 0.5);
+      }
+    </style>
 </head>
 <body>
     <header>
@@ -23,10 +31,8 @@
         </div>
     </header>
 
-  <!-- Slideshow container -->
-<div class="slideshow-container">
 
-  <!-- Full-width images with number and caption text -->
+<div class="slideshow-container">
   <div class="mySlides fade">
     <div class="numbertext">1 / 7</div>
     <img src="./img/img1.jpg" style="width:100%">
@@ -59,13 +65,12 @@
   </div>
 
 
-  <!-- Next and previous buttons -->
+  
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 <br>
 
-<!-- The dots/circles -->
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span>
   <span class="dot" onclick="currentSlide(2)"></span>
@@ -75,8 +80,7 @@
   <span class="dot" onclick="currentSlide(6)"></span>
   <span class="dot" onclick="currentSlide(7)"></span>
 </div>
-
-    <br>
+<br>
     <footer>
         <p>Direitos Reservados a Lucas V. de Freitas, Amanda Beatriz fiereck, Rafaela Luiza N. Cavalcante e Ana Beatriz da Silva Lima</p>
         <p>cnpj: 11.111.111/0001-11</p>
@@ -85,5 +89,4 @@
     </footer>
 </body>
 </php>
-</html>
 
