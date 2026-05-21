@@ -1,7 +1,7 @@
 <!DOCTYPE php>
 <php lang="pt-br">
 <head>
-    <meta author="Lucas V. de Freitas, Amanda Beatriz fiereck e Rafaela Luiza N. Cavalcante">
+    <meta author="Lucas V. de Freitas, Amanda Beatriz fiereck, Rafaela Luiza N. Cavalcante e Ana Beatriz da Silva Lima">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Esportes - Vôlei</title>
@@ -78,7 +78,7 @@
 
     <br>
     <footer>
-        <p>Direitos Reservados a Lucas V. de Freitas, Amanda Beatriz fir e Rafaela Luiza N. Cavalcante</p>
+        <p>Direitos Reservados a Lucas V. de Freitas, Amanda Beatriz fiereck, Rafaela Luiza N. Cavalcante e Ana Beatriz da Silva Lima</p>
         <p>cnpj: 11.111.111/0001-11</p>
         <p>Endereço: Rua dos Esportes, 123 - Cidade Esportiva, MG, Brasil</p>
         <p>CEP: 35000-000</p>
