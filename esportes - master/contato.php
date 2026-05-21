@@ -39,7 +39,7 @@ Whatsapp</a></li>
 </div>
 
 
-<p align=center><a > Lucas,Amanda,Rafaela - 2026</a></p>
+<p align=center><a > Lucas,Amanda,Rafaela e Ana Beatriz - 2026</a></p>
 </footer>
 </body>
 </php>
